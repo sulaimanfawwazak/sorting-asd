@@ -9,3 +9,5 @@ Sorting algorithm analysis on: <br/>
 4. Radix Sort <br/>
 5. Quick Sort <br/>
 6. Heap Sort <br/>
+<br/>
+- fawwaz
